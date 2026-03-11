@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # XGBoost Regression House Price Prediction
 
 ## Overview
@@ -29,4 +28,3 @@ Public Leaderboard: **0.12810** (RMSLE)
 ## Libraries
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, xgboost
-EOF
